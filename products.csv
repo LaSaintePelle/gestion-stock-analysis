@@ -1,0 +1,51 @@
+product_id,product_name,category,price,stock_quantity,last_updated
+P001,Bouilloire Électrique,Sport,235.09,6,2024-11-28
+P002,Grille-Pain,Alimentation,437.62,10,2024-11-28
+P003,Smartphone Galaxy,Vêtements,396.6,37,2024-11-28
+P004,Console de Jeu,Décoration,135.36,18,2024-11-28
+P005,Pantalon en Jean,Alimentation,454.91,0,2024-11-28
+P006,Haltères Réglables,Électronique,404.19,0,2024-11-28
+P007,Casserole en Inox,Alimentation,266.81,81,2024-11-28
+P008,Pantalon en Jean,Électronique,497.62,0,2024-11-28
+P009,Tablette de Chocolat,Alimentation,297.14,0,2024-11-28
+P010,Ordinateur Portable,Décoration,31.54,0,2024-11-28
+P011,Banc de Musculation,Vêtements,330.29,4,2024-11-28
+P012,Pack de Bouteilles d’Eau,Vêtements,182.34,3,2024-11-28
+P013,Jus de Fruits,Sport,171.61,0,2024-11-28
+P014,Horloge Murale,Vêtements,188.0,0,2024-11-28
+P015,Écran Ultra HD,Vêtements,38.35,0,2024-11-28
+P016,Tapis de Yoga,Décoration,47.06,10,2024-11-28
+P017,Tapis de Course,Électronique,431.53,6,2024-11-28
+P018,Souris Gaming,Décoration,499.94,2,2024-11-28
+P019,Chauffe-Eau Instantané,Décoration,395.41,78,2024-11-28
+P020,Sac à Dos,Décoration,323.23,1,2024-11-28
+P021,Casque Bluetooth,Sport,260.86,85,2024-11-28
+P022,Lampe de Chevet,Cuisine,214.53,34,2024-11-28
+P023,Haltères Réglables,Alimentation,86.89,0,2024-11-28
+P024,Casque Bluetooth,Alimentation,73.88,0,2024-11-28
+P025,Tablette de Chocolat,Sport,94.51,75,2024-11-28
+P026,Céréales Matinales,Cuisine,243.61,6,2024-11-28
+P027,Pack de Yaourts,Cuisine,63.52,0,2024-11-28
+P028,Machine à Café,Sport,101.49,0,2024-11-28
+P029,Machine à Café,Sport,146.78,31,2024-11-28
+P030,Lampe de Chevet,Sport,408.78,0,2024-11-28
+P031,Montre Connectée,Sport,146.06,99,2024-11-28
+P032,Écran Ultra HD,Vêtements,240.58,2,2024-11-28
+P033,Climatisation Mobile,Vêtements,249.73,30,2024-11-28
+P034,Pain de Mie,Cuisine,325.59,0,2024-11-28
+P035,Four Micro-Ondes,Vêtements,256.54,19,2024-11-28
+P036,Céréales Matinales,Cuisine,442.95,57,2024-11-28
+P037,Grille-Pain,Alimentation,143.5,10,2024-11-28
+P038,T-Shirt en Coton,Sport,254.35,10,2024-11-28
+P039,Banc de Musculation,Alimentation,75.74,1,2024-11-28
+P040,Pantalon en Jean,Décoration,189.89,0,2024-11-28
+P041,Bottes en Cuir,Électronique,322.88,0,2024-11-28
+P042,Gants de Ski,Vêtements,5.94,23,2024-11-28
+P043,T-Shirt en Coton,Alimentation,37.81,0,2024-11-28
+P044,Tablette Tactile,Vêtements,415.73,0,2024-11-28
+P045,Chaussures de Course,Sport,343.08,6,2024-11-28
+P046,Sac à Dos,Décoration,124.41,0,2024-11-28
+P047,Tapis de Course,Vêtements,14.42,85,2024-11-28
+P048,Mixeur Plongeant,Vêtements,75.5,72,2024-11-28
+P049,Fromage à Tartiner,Décoration,432.25,68,2024-11-28
+P050,Bottes en Cuir,Alimentation,462.29,55,2024-11-28
